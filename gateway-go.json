@@ -1,19 +1,19 @@
 {
-    "version": "0.1.77",
+    "version": "0.1.78",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/OpenIoTHub/gateway-go/releases/download/v0.1.77/gateway-go_0.1.77_Windows_i386.tar.gz",
+            "url": "https://github.com/OpenIoTHub/gateway-go/releases/download/v0.1.78/gateway-go_0.1.78_Windows_i386.tar.gz",
             "bin": [
                 "gateway-go.exe"
             ],
-            "hash": "e8623dfb74060ae55f932e28619cadbb43c9db2d3b8b62eaa24b8cd280d63534"
+            "hash": "55373d4ad44b2b7fd937a67d1376d155e51cfa5c3392313a8637b43db9cc40a3"
         },
         "64bit": {
-            "url": "https://github.com/OpenIoTHub/gateway-go/releases/download/v0.1.77/gateway-go_0.1.77_Windows_x86_64.tar.gz",
+            "url": "https://github.com/OpenIoTHub/gateway-go/releases/download/v0.1.78/gateway-go_0.1.78_Windows_x86_64.tar.gz",
             "bin": [
                 "gateway-go.exe"
             ],
-            "hash": "8068483cde3f4111be2781966e7456669cfda4ac667e6421f7587cf61b93c038"
+            "hash": "d9264f3ebd38047ea08d96f43ec215ddf0d789b81f159026f1e97d7b6664e9f1"
         }
     },
     "homepage": "http://github.com/OpenIoTHub",
