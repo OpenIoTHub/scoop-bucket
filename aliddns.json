@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/OpenIoTHub/aliddns/releases/download/v0.0.1/aliddns_0.0.1_Windows_i386.tar.gz",
+            "bin": [
+                "aliddns.exe"
+            ],
+            "hash": "00c23a31e65260ccd6e8e70412ccda9e6936e88ffa4395c3cab6369e76524bee"
+        },
+        "64bit": {
+            "url": "https://github.com/OpenIoTHub/aliddns/releases/download/v0.0.1/aliddns_0.0.1_Windows_x86_64.tar.gz",
+            "bin": [
+                "aliddns.exe"
+            ],
+            "hash": "160a7e5e4fc4585673fa929355c70098c562c94ef1c8ef742da0e7f393f81b13"
+        }
+    },
+    "homepage": "http://github.com/OpenIoTHub",
+    "license": "MIT",
+    "description": "Aliyun ddns service"
+}
