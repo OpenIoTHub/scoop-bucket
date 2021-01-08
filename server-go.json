@@ -1,19 +1,19 @@
 {
-    "version": "1.1.59",
+    "version": "1.1.60",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/OpenIoTHub/server-go/releases/download/v1.1.59/server-go_1.1.59_Windows_i386.tar.gz",
+            "url": "https://github.com/OpenIoTHub/server-go/releases/download/v1.1.60/server-go_1.1.60_Windows_i386.tar.gz",
             "bin": [
                 "server-go.exe"
             ],
-            "hash": "89336adf8b515175e5e32fc33c299eff489a00ac0a3e2e88503bf40d999de61b"
+            "hash": "679adbfeaeef9b6b92fc8d179e1b8fc3f5249d2cfe30775317942e4751d75f70"
         },
         "64bit": {
-            "url": "https://github.com/OpenIoTHub/server-go/releases/download/v1.1.59/server-go_1.1.59_Windows_x86_64.tar.gz",
+            "url": "https://github.com/OpenIoTHub/server-go/releases/download/v1.1.60/server-go_1.1.60_Windows_x86_64.tar.gz",
             "bin": [
                 "server-go.exe"
             ],
-            "hash": "38d7c50fc7d891984533f8c695e8b9449f9c146c3c6d9d1f55f49362a039eef9"
+            "hash": "11edbcca4a248238c6de3a3b1490b2350a6730f4fd3aee9d057d80f1b0ec920d"
         }
     },
     "homepage": "http://github.com/OpenIoTHub",
