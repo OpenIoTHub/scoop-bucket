@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/OpenIoTHub/getip/releases/download/v0.1.0/getip_0.1.0_Windows_i386.tar.gz",
+            "url": "https://github.com/OpenIoTHub/getip/releases/download/v0.1.1/getip_0.1.1_Windows_i386.tar.gz",
             "bin": [
                 "getip.exe"
             ],
-            "hash": "91e1454008df45d565842355806705b9f06bcfd02c5152b02939ae8d7e8d4a56"
+            "hash": "72e40b13fe60bcefabf089455b349db793bd2ac4753537ad70df3911aa1baa0b"
         },
         "64bit": {
-            "url": "https://github.com/OpenIoTHub/getip/releases/download/v0.1.0/getip_0.1.0_Windows_x86_64.tar.gz",
+            "url": "https://github.com/OpenIoTHub/getip/releases/download/v0.1.1/getip_0.1.1_Windows_x86_64.tar.gz",
             "bin": [
                 "getip.exe"
             ],
-            "hash": "a5a8cd2f3a552f5b28aac3d9ae3fbf1b0ae447c9bcdf39505cbbb377c3a80614"
+            "hash": "f03e610498cd19685e532e508e7c1aa1148c7c86d00cfd6e43f787fb197a149e"
         }
     },
     "homepage": "http://github.com/OpenIoTHub",
