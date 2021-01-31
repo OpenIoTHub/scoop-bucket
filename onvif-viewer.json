@@ -1,0 +1,22 @@
+{
+    "version": "1.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/mDNSService/onvif-viewer/releases/download/v1.2/onvif-viewer_1.2_Windows_i386.tar.gz",
+            "bin": [
+                "onvif-viewer.exe"
+            ],
+            "hash": "884ac0552f5562957585aa49af53294079c74472470cd306b0451e42f2c19091"
+        },
+        "64bit": {
+            "url": "https://github.com/mDNSService/onvif-viewer/releases/download/v1.2/onvif-viewer_1.2_Windows_x86_64.tar.gz",
+            "bin": [
+                "onvif-viewer.exe"
+            ],
+            "hash": "ed25382f1d2566ed2a74554f3e480fbef0f33cbbfd55f1512e18c53f61da1d6b"
+        }
+    },
+    "homepage": "https://github.com/mDNSService/onvif-viewer",
+    "license": "MIT",
+    "description": "Onvif Camera Viewer"
+}
