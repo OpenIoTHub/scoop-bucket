@@ -1,19 +1,19 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/IoTDevice/phicomm-r1-controler/releases/download/v0.0.2/phicomm-r1-controler_0.0.2_Windows_i386.tar.gz",
+            "url": "https://github.com/IoTDevice/phicomm-r1-controler/releases/download/v0.0.3/phicomm-r1-controler_0.0.3_Windows_i386.tar.gz",
             "bin": [
                 "phicomm-r1-controler.exe"
             ],
-            "hash": "196f261bbd40490cf42acca8007f45ac6f1c78a47f70bd0d8c5a2e3c12b13eef"
+            "hash": "5886d8a6fe6ac8bfcd9574f9b201ffd4846e0eb61fbdcf4606c399739a114fe6"
         },
         "64bit": {
-            "url": "https://github.com/IoTDevice/phicomm-r1-controler/releases/download/v0.0.2/phicomm-r1-controler_0.0.2_Windows_x86_64.tar.gz",
+            "url": "https://github.com/IoTDevice/phicomm-r1-controler/releases/download/v0.0.3/phicomm-r1-controler_0.0.3_Windows_x86_64.tar.gz",
             "bin": [
                 "phicomm-r1-controler.exe"
             ],
-            "hash": "54f4ac38c7877335577b0961735e087f5454101c6e9685ef671d8d7e72df7981"
+            "hash": "0f681d2d87fd24462ec4644bdf17d53a48b8a31c7c4d967855aebd2788515b3a"
         }
     },
     "homepage": "https://github.com/IoTDevice/phicomm-r1-controler",
