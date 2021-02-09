@@ -1,19 +1,19 @@
 {
-    "version": "1.4",
+    "version": "1.5",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mDNSService/onvif-viewer/releases/download/v1.4/onvif-viewer_1.4_Windows_i386.tar.gz",
+            "url": "https://github.com/mDNSService/onvif-viewer/releases/download/v1.5/onvif-viewer_1.5_Windows_i386.tar.gz",
             "bin": [
                 "onvif-viewer.exe"
             ],
-            "hash": "3759e54320d2f23b9080e50bce3ddd8433eb8040873e1a760db542a7ba8e4681"
+            "hash": "721cb679ea599b5fe16dbe63a8fc072987562b956fec9319f0a04aa86bfd549c"
         },
         "64bit": {
-            "url": "https://github.com/mDNSService/onvif-viewer/releases/download/v1.4/onvif-viewer_1.4_Windows_x86_64.tar.gz",
+            "url": "https://github.com/mDNSService/onvif-viewer/releases/download/v1.5/onvif-viewer_1.5_Windows_x86_64.tar.gz",
             "bin": [
                 "onvif-viewer.exe"
             ],
-            "hash": "81b8cd5c372128efd4da45f9e252487b27fe0349c68ebe182ae7417287b94fd2"
+            "hash": "54e5a9ff054c998931169f1ad6668e90b8da33c140061352ba8318974126de4e"
         }
     },
     "homepage": "https://github.com/mDNSService/onvif-viewer",
