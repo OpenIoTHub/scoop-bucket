@@ -1,19 +1,19 @@
 {
-    "version": "0.1.10",
+    "version": "0.1.12",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/IoTDevice/zeroconf/releases/download/v0.1.10/zeroconf_0.1.10_Windows_i386.tar.gz",
+            "url": "https://github.com/IoTDevice/zeroconf/releases/download/v0.1.12/zeroconf_0.1.12_Windows_i386.tar.gz",
             "bin": [
                 "mdns.exe"
             ],
-            "hash": "0914d8ea47675d224dcc07f5751cd4a3942dfce9aa255f59d0aa97e1d65622d6"
+            "hash": "966157878825223d3942e451a878d2d24595bea43f2c4879adb91ca5eb86e305"
         },
         "64bit": {
-            "url": "https://github.com/IoTDevice/zeroconf/releases/download/v0.1.10/zeroconf_0.1.10_Windows_x86_64.tar.gz",
+            "url": "https://github.com/IoTDevice/zeroconf/releases/download/v0.1.12/zeroconf_0.1.12_Windows_x86_64.tar.gz",
             "bin": [
                 "mdns.exe"
             ],
-            "hash": "094c0a87130e4c1e6892c8fbdb223834d03eb6c6fd28d0043083de86943d6ddc"
+            "hash": "517a73daced4cce51a26919538070ba9358f143514e4a93126eab26028170252"
         }
     },
     "homepage": "https://github.com/IoTDevice/zeroconf",
