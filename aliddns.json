@@ -1,19 +1,19 @@
 {
-    "version": "0.0.9",
+    "version": "0.0.10",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/OpenIoTHub/aliddns/releases/download/v0.0.9/aliddns_0.0.9_Windows_i386.tar.gz",
+            "url": "https://github.com/OpenIoTHub/aliddns/releases/download/v0.0.10/aliddns_0.0.10_Windows_i386.tar.gz",
             "bin": [
                 "aliddns.exe"
             ],
-            "hash": "b5e1d2576e953c4d1f2be036f1c9a2b8b0ca3a5db97bb42d77d6036656f6fd34"
+            "hash": "dcfc058de6b48d4772ca1af7f29ff3c088dfb7d66848a52b46209570b3f1bac8"
         },
         "64bit": {
-            "url": "https://github.com/OpenIoTHub/aliddns/releases/download/v0.0.9/aliddns_0.0.9_Windows_x86_64.tar.gz",
+            "url": "https://github.com/OpenIoTHub/aliddns/releases/download/v0.0.10/aliddns_0.0.10_Windows_x86_64.tar.gz",
             "bin": [
                 "aliddns.exe"
             ],
-            "hash": "65041c9aff34023ae14ad731453da465f049bc459719540ad46c321a8d2027bd"
+            "hash": "cf4244a0a640a91be983dcf1bac1d8915df39334388d5fc1243f51ba2b9c43f2"
         }
     },
     "homepage": "http://github.com/OpenIoTHub",
